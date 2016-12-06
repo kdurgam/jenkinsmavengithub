@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Sample Suite">
+
+
+
+
+<test name="Learning testng ant jenkins github">
+    <classes>
+        <class name="testcases.AppTest" ></class>  
+    </classes>
+</test>
+
+
+
+
+</suite>
